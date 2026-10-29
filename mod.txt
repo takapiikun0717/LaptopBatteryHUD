@@ -1,0 +1,8 @@
+[mod]
+name="Laptop Battery HUD"
+id="LaptopBatteryHUD"
+version="1.1.2"
+description="Shows the laptop battery percentage on screen. Position, colors and size are configurable in MCM."
+
+[autoload]
+LaptopBatteryHUD="res://LaptopBatteryHUD/BatteryHUD.gd"
