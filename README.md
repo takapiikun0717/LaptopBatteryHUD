@@ -7,3 +7,4 @@ modsフォルダにLaptopBatteryHUD.vmzファイルを入れた状態で起動�
 
 前提MOD
 Metro Mod Loder
+Mod Configuration Menu
